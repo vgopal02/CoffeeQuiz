@@ -65,3 +65,39 @@ body {
      background-color: #6b7a8f;
     text-align: center;
 }
+
+.fas{
+    font-size: 30px;
+}
+
+.flex-right h1{
+    font-weight: lighter; 
+}
+
+.flex-right p {
+    margin:20px 0;
+    line-height: 30px;
+    font-size: 16px;
+   
+}
+
+.button{
+    text-decoration: none;
+    background:   #f7882f;;
+    border: solid 2px white ;
+    border-radius: 3px;
+    transition: .4s;
+    width:200px;
+    height:50px;
+    font-size: 20px;
+    color: rgba(0,0,0);
+    cursor: pointer;
+    font-weight: lighter; 
+    font-family: Montserrat,sans-serif;
+}
+
+.button:hover {
+   
+    color: white;
+    border: solid 2px #f7882f;
+}
