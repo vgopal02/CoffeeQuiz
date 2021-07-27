@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,26 +9,33 @@
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
-    <body>
-        <section id="main">
-            <div class="flex-container-home">
-                <div class="flex-left"></div>
-                <div class="flex-right">
-                     <!-- Font Awesome Icon -->
-                    <div><i class="fas fa-coffee"></i></div>
+<body>
+    <!-- Core Structure -->
+    <section id="main">
+        <div class="flex-container-home">
+            <div class="flex-left"></div>
+            <div class="flex-right">
 
-                     <!-- Main Header -->
-                    <div><h1> The Coffee Quiz</h1></div>
+                <!-- Font Awesome Icon -->
+                <div><i class="fas fa-coffee"></i></div>
 
-                    <!-- Let's Play Link -->
-                    <div><p>Cappuccino , Latte Espresso or Macchiato ? <br>If you love and live on the brew then test your knowledge with this fun quiz!</p></div>
-                    <div><button class="button" onclick="window.location.href='#.html'">Let's Play!</button></div>
-                    
-                    <!-- Instructions Button with JS Modal -->
-                    <div><button id="modalBtn" class="button">Instructions</button>
-                        <div id="simpleModal" class="modal">
-                            <div class="modal-content">
-                                <div class="modal-header">
+                <!-- Main Header -->
+                <div>
+                    <h1> The Coffee Quiz</h1>
+                </div>
+
+                <!-- Let's Play Link -->
+                <div>
+                    <p>Cappuccino , Latte Espresso or Macchiato ? <br>If you love and live on the brew then test your
+                        knowledge with this fun quiz!</p>
+                </div>
+                <div><button class="button" onclick="window.location.href='#.html'">Let's Play!</button></div>
+
+                <!-- Instructions Button with JS Modal Link -->
+                <div><button id="modalBtn" class="button">Instructions</button>
+                    <div id="simpleModal" class="modal">
+                        <div class="modal-content">
+                            <div class="modal-header">
                                 <span class="closeBtn">&times;</span>
                                 <h2>Instructions</h2>
                             </div>
@@ -35,30 +43,33 @@
                                 <p>1. Click on the "Let's Play" button </p>
                                 <p>2. There are totally 5 questions to answer.</p>
                                 <p>3. There is NO time limit to answer.</p>
-                                <p>4. Once you choose your answer it will highlight it either GREEN for CORRECT and RED for INCORRECT.</p>
-                                <p>5. Your current score will update as you play </p>  
-                                <p>6.You may leave the game anytime by pressing the exit button.</p>     
-                                <p>7. Save your score and view it through the High Score section next time you visit.</p>
+                                <p>4. Once you choose your answer it will highlight it either GREEN for CORRECT and RED
+                                    for INCORRECT.</p>
+                                <p>5. Your current score will update as you play </p>
+                                <p>6.You may leave the game anytime by pressing the exit button.</p>
+                                <p>7. Save your score and view it through the High Score section next time you visit.
+                                </p>
 
                             </div>
                             <div class="modal-footer">
                                 <h3>Enjoy the quiz with a mug of your favourite brew!</h3>
                             </div>
-                            </div>
                         </div>
                     </div>
-
-                    <!-- High Scores Link -->
-                    <div><button class="button" onclick="window.location.href='#.html'">High Scores</button></div>
                 </div>
-                    </div>
-        </section>
-        
-         <!-- Fontawesome script -->
-         <script src="https://kit.fontawesome.com/b83175b9a4.js" crossorigin="anonymous"></script>
-         
-         <!-- JS Link for instructions modal -->
-        <script src="/assets/js/modal.js"></script>
+
+                <!-- High Scores Link -->
+                <div><button class="button" onclick="window.location.href='#.html'">High Scores</button></div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Fontawesome script -->
+    <script src="https://kit.fontawesome.com/b83175b9a4.js" crossorigin="anonymous"></script>
+
+    <!-- JS Link for instructions modal -->
+    <script src="/assets/js/modal.js"></script>
 
 </body>
+
 </html>
