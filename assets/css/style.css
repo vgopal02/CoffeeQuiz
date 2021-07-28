@@ -301,3 +301,15 @@ body {
   .incorrect{
     background-color: red;
 }
+
+/* QUIZ PAGE - Heads Up Display */
+
+#hud {
+    display:flex;
+    justify-content: space-between;
+}
+
+.quiz-content{
+    margin-bottom:20px;
+    font-size: 25px;
+}
