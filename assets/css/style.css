@@ -343,3 +343,61 @@ body {
     color: white;
     border: solid 2px #f7882f;
 }
+
+/* QUIZ PAGE - Media Queries */
+
+@media only screen and (max-width:330px) {
+    .choice-container {
+    font-size: 16px;
+    }
+
+    .quiz-content {
+        font-size:18px;
+    }
+    .quiz-content p{
+        font-size:18px;
+    }
+    .quiz-content  h2{
+        font-size:18px;
+    }
+
+    #question{
+        font-size:18px;
+    }
+
+    .choice-prefix {
+        padding: 20px 20px;
+        background-color: #f7882f;;
+        color: white;
+      }
+    
+    .choice-text {
+        padding: 5px;
+        
+    }
+
+}
+    @media only screen and (max-width:710px){
+
+    .choice-container {
+        font-size: 20px;
+        }
+
+        .quiz-content {
+            font-size:35px;
+        }
+
+        .quiz-content p{
+            font-size:22px;
+        }
+        .quiz-content  h2{
+            font-size:22px;
+        }
+    
+        #question{
+            font-size:22px;
+        }
+
+ }
+
+ 
