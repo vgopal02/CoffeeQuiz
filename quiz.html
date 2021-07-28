@@ -10,19 +10,20 @@
 </head>
 
 <body>
-
+  <!-- Core Structure -->
     <div class="container">
 
+  <!-- Question Counter and Score Counter  -->
         <div id="game" class="justify-center flex-column">
             <div id="hud">
                 <div class="quiz-content">
                     <p>
-                    Question
+                        Question
                     </p>
                     <h2 id="questionCounter">
-                      No
+                        No
                     </h2>
-                </div>          
+                </div>
                 <div>
                     <p>
                         Score
@@ -33,6 +34,7 @@
                 </div>
             </div>
 
+ <!-- Question and Answer Choices  -->
             <div id="question" class="quiz-content">What is the answer to this questions?</div>
             <div class="choice-container">
                 <p class="choice-prefix">1</p>
@@ -50,16 +52,17 @@
                 <p class="choice-prefix">4</p>
                 <p class="choice-text" data-number="4">Choice 4</p>
             </div>
-           <div class="exit"><button class="exitbutton" onclick="window.location.href='index.html'">Exit</button></div>
+            <div class="exit"><button class="exitbutton" onclick="window.location.href='index.html'">Exit</button></div>
         </div>
     </div>
- <!-- Fontawesome script -->
- <script src="https://kit.fontawesome.com/b83175b9a4.js" crossorigin="anonymous"></script>
 
- <!-- JS Quiz script-->
- <script src="/assets/js/quiz.js"></script>
+    <!-- Fontawesome script -->
+    <script src="https://kit.fontawesome.com/b83175b9a4.js" crossorigin="anonymous"></script>
 
-   
+    <!-- JS Quiz script-->
+    <script src="/assets/js/quiz.js"></script>
+
+
 </body>
 
 </html>
