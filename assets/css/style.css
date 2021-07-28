@@ -276,29 +276,29 @@ body {
    
   }
   
-  .choice-container:hover {
+.choice-container:hover {
     cursor: pointer;
     box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
     transform: translateY(-0.1rem);
     transition: transform 150ms;
   }
   
-  .choice-prefix {
+.choice-prefix {
     padding: 1.5rem 2.5rem;
     background-color: #f7882f;;
     color: white;
   }
   
-  .choice-text {
+.choice-text {
     padding: 1.5rem;
     width:100%;
   }
 
-  .correct{
+.correct{
       background-color: green;
   }
 
-  .incorrect{
+.incorrect{
     background-color: red;
 }
 
@@ -321,6 +321,7 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction:column;
+    
 }
 
 .exitbutton{
@@ -336,6 +337,9 @@ body {
     font-size: 18px;
     color: rgba(0,0,0);
     cursor: pointer; 
+    font-weight: lighter; 
+    font-family: Montserrat,sans-serif;
+    font-size: 20px;
 }
 
 .exitbutton:hover {
@@ -347,6 +351,7 @@ body {
 /* QUIZ PAGE - Media Queries */
 
 @media only screen and (max-width:330px) {
+    
     .choice-container {
     font-size: 16px;
     }
@@ -377,7 +382,8 @@ body {
     }
 
 }
-    @media only screen and (max-width:710px){
+
+@media only screen and (max-width:710px){
 
     .choice-container {
         font-size: 20px;
