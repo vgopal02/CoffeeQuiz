@@ -189,3 +189,7 @@ let questions = [
    answer: 2,
 },
 ];
+
+//CONSTANTS
+const CORRECT_BONUS = 10;
+const MAX_QUESTIONS = 5;
