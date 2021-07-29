@@ -436,6 +436,8 @@ border-radius: 6px;
         margin-top: 20px;
     }
 
+    /* CONCLUDE PAGE - Media Queries */
+
     @media only screen and (max-width:370px) {
         .btn  {
             width:120px;
