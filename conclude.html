@@ -10,14 +10,21 @@
 </head>
 
 <body>
+    <!-- Main Containers-->
     <section id="main">
         <div class="flex-container-home">
             <div class="flex-left"></div>
             <div class="flex-right">
+
+                <!-- FA icon -->
                 <div><i class="fas fa-coffee"></i></div>
+
+                 <!-- Final Score -->
                 <div id="end">
                     <h2>Final Score</h2>
                     <h1 id="finalScore"></h1>
+
+                      <!-- User Name Input and Save Button -->
                     <form>
                         <input type="text" name="username" id="username" placeholder="username" />
                         <button type="submit" class="btn" id="saveScoreBtn" onclick="saveHighScore(event)" disabled>
@@ -25,8 +32,9 @@
                         </button>
                     </form>
                     <br>
-                    <div><button class="button margin" onclick="window.location.href='quiz.html'">Play Again</button></div>
-                   
+
+                    <!-- Play Again and Go Home Button -->
+                    <div><button class="button margin" onclick="window.location.href='quiz.html'">Play Again</button></div>    
                     <div><button class="button margin" onclick="window.location.href='index.html'">Go Home</button></div>
                 </div>
             </div>
