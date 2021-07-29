@@ -435,3 +435,14 @@ border-radius: 6px;
     .margin{
         margin-top: 20px;
     }
+
+    /* HIGHSCORES PAGE */
+    #highScoresList {
+        list-style: none;
+        padding-left: 0;
+        margin-bottom: 4rem;
+        font-size: 22px;
+        color:black;
+        font-weight: bold;
+      }
+      
