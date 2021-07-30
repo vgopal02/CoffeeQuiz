@@ -21,7 +21,7 @@
         1. As a Returning Visitor, I want to be able to play the quiz with different questions.
 
 
-- #### Frequent User Goals
+    - #### Frequent User Goals
 
-     1. As a Frequent User, I want to be challenged to new questions in the quiz everytime.
-     2. This will require a large database of questions.
+        1. As a Frequent User, I want to be challenged to new questions in the quiz everytime.
+        2. This will require a large database of questions.
