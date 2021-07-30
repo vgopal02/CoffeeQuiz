@@ -25,3 +25,19 @@
 
         1. As a Frequent User, I want to be challenged to new questions in the quiz everytime.
         2. This will require a large database of questions.
+
+-   #### Design
+        -   #### Color Scheme
+        Colors have been inspired by coffee image. The main colors used are : 
+        1. #fddcc356;
+        2. #6b7a8f
+        3. #f7882f;
+        4. White - for Typography
+        5. Black - for Typography
+        6. Red and Green to highlight correct and incorrect answers. 
+
+        -   #### Typography
+        -   <p style="justify">All headers are in Raleway. Josefin is the main font used throughout the website.Sans Serif is the fallback font in case either fonts are not being imported into the site correctly. Both fonts are frequently used on websites and reflective of the brand image.Dancing Script has been used in the cover text on the hero image with Sans Serif as the fallback font.This has been added to enhance the welcome image while conveying the brand USP.</p>
+
+        -   #### Imagery
+        -   <p style="justify">Imagery is very important. It wants to reflect the studio as a warm, welcoming and sophisticated environment. The large, background hero image, is designed to catch the user's attention. It also has a modern and energetic aesthetics without focussing on any one set of people as the organisation wants to appeal to a varied age-range of persons. This has also been reflected in image gallery where different age range of people can be seen.</p>
