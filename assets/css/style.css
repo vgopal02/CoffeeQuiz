@@ -37,7 +37,7 @@ body {
 .flex-left {
 width:50%;
 height:700px;
-background: url('/assets/images/home-img.jpg') no-repeat center /cover;
+background: url('../images/home-img.jpg') no-repeat center /cover;
 border-radius: 6px;
 }
 
