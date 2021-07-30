@@ -46,17 +46,15 @@
         <p> Imagery is important.The homepage image is designed to be striking and catch the user's attention. However, the use of imagery is limited in the site so as to not distract the user from the key the objective of the site which is to play the quiz. </p>
 
 
+-  ### Wireframes 
 
-     
+    <p>Wireframes have been created using Balsamiq.</p>
+    
+   
+    -  #### Home
+        <p>
+       <img src="readme/wf-hp-1.png" alt="FullScreen Home Page Wire Frame" width="500" height="600">
+        <img src="readme/wf-hp-2.png" alt="Mobile Home Page Wire Frame" width="300" height="600">
+        </p>
 
-
-
-       
-
-
-
-        
-
-      
-
-
+    
