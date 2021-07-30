@@ -37,7 +37,7 @@
         6. Red and Green to highlight correct and incorrect answers. 
 
         -   #### Typography
-        -   <p style="justify">All headers are in Raleway. Josefin is the main font used throughout the website.Sans Serif is the fallback font in case either fonts are not being imported into the site correctly. Both fonts are frequently used on websites and reflective of the brand image.Dancing Script has been used in the cover text on the hero image with Sans Serif as the fallback font.This has been added to enhance the welcome image while conveying the brand USP.</p>
+        -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
 
         -   #### Imagery
-        -   <p style="justify">Imagery is very important. It wants to reflect the studio as a warm, welcoming and sophisticated environment. The large, background hero image, is designed to catch the user's attention. It also has a modern and energetic aesthetics without focussing on any one set of people as the organisation wants to appeal to a varied age-range of persons. This has also been reflected in image gallery where different age range of people can be seen.</p>
+        -   <p style="justify">Imagery is very important. The main image on the homepage is striking enough to catch the user's attention. It also has a modern aesthetic to it.However as the project is a quiz it is important not to take the focus away from the objective - to play the quiz. So imagery remains limited to only the areas where the actual quiz is not being played so as to not distrct the user. </p>
