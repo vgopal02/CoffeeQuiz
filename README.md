@@ -26,18 +26,27 @@
         1. As a Frequent User, I want to be challenged to new questions in the quiz everytime.
         2. This will require a large database of questions.
 
+
 -   #### Design
-        -   #### Color Scheme
-        Colors have been inspired by coffee image. The main colors used are : 
-        1. #fddcc356;
-        2. #6b7a8f
-        3. #f7882f;
-        4. White - for Typography
-        5. Black - for Typography
-        6. Red and Green to highlight correct and incorrect answers. 
+    - #### Color Scheme
 
-        -   #### Typography
-        -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+    The main colors used 
+        Colors used been inspired by coffee image. The main colors used are :
+       <p> 1. #fddcc356 </p>
+       <p> 2. #6b7a8f </p> 
+       <p> 3. #f7882f </p> 
+       <p> White & Black for Typography. </p> 
+       <p> Red and Green to highlight correct and incorrect answers in quiz. </p> 
 
-        -   #### Imagery
-        -   <p style="justify">Imagery is very important. The main image on the homepage is striking enough to catch the user's attention. It also has a modern aesthetic to it.However as the project is a quiz it is important not to take the focus away from the objective - to play the quiz. So imagery remains limited to only the areas where the actual quiz is not being played so as to not distrct the user. </p>
+
+
+
+       
+
+
+
+        
+
+      
+
+
