@@ -37,7 +37,13 @@
        <p> 3. #f7882f </p> 
        <p> White & Black for Typography. </p> 
        <p> Red and Green to highlight correct and incorrect answers in quiz. </p> 
+ 
+    - #### Typography
+        <p>The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.</p>
 
+
+
+    
 
 
 
