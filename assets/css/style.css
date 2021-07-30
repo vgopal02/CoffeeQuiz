@@ -460,6 +460,8 @@ border-radius: 6px;
          border:1px solid black;
          height:250px;
          margin-top: 5px;
+         font-weight: bold; 
+         color:white;
          
       }
       
