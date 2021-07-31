@@ -80,8 +80,8 @@
         -   The page is responsive on all device sizes
 
 <p align="center">
-       <img src="readme/hp1.png" alt="FullScreen Quiz Page Wire Frame" width="450" height="400">
-        <img src="readme/hp1-m.png" alt="FullScreen Quiz Page Wire Frame"width="450" height="400">
+       <img src="readme/hp1.png" alt="FullScreen Quiz Page Wire Frame" width="75%" height="400">
+        <img src="readme/hp1-m.png" alt="FullScreen Quiz Page Wire Frame"width="75%" height="400">
        </p>
 
 <p align="center">
