@@ -5,7 +5,8 @@
 <p style="justify">This is a fun quiz designed to test the  knowledge of all coffee lovers and even those who are not. Based on a set of hardcoded questions the user is tested to 5 random questions each time they play.Each correct answer is worth 10 points. A score card at the top of the screen keeps score and also allows the user to see which question they are on. Upon completion of the quiz a final the user may save their score with the option to play again.  </p>
 
 <h2 align="center"><img src="readme/home-page.png" alt="Website Screen Shot on different screen sizes" width="700" height="400"></h2>
-## User Experience (UX)
+
+#  User Experience (UX)
 
 -   ### User stories
 
@@ -72,12 +73,16 @@
 
    -  ## Home Page
         -   The user is welcomed into the site with striking image whilst ensuring focus of attention remains the quiz .
-        -   Responsive on all device sizes
+        -   The user has three clear options - to be able to play the game , view instructions of the game or to view highscores generated so far.
+        - The instructions option opens up a modal where the user is able to understand how to proceed further.
+        -   The page is responsive on all device sizes
 
  <p float="left">
-       <img src="readme/hp-1.png" alt="FullScreen Quiz Page Wire Frame" width="350" height="400">
-       <img src="readme/hp-2.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
-       <img src="readme/hp-3.png" alt="Mobile Quiz Page Wire Frame" width="350" height="400">
+       <img src="readme/hp-1.png" alt="FullScreen Quiz Page Wire Frame" width="360" height="400">
+       <img src="readme/hp-3.png" alt="Mobile Quiz Page Wire Frame" width="360" height="400">
+       </p>
+<p align="center">
+       <img src="readme/hp-2.png" alt="Mobile Quiz Page Wire Frame" width="250" height="400">
         </p>
 
   -  ## Quiz Page
