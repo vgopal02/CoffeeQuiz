@@ -52,9 +52,9 @@
     
    
     -  #### Home
-        <p>
-       <img src="readme/wf-hp-1.png" alt="FullScreen Home Page Wire Frame" width="500" height="600">
-        <img src="readme/wf-hp-2.png" alt="Mobile Home Page Wire Frame" width="300" height="600">
+       <p float="left">
+       <img src="readme/wf-hp-1.png" alt="FullScreen Home Page Wire Frame" width="350" height="400">
+        <img src="readme/wf-hp-2.png" alt="Mobile Home Page Wire Frame" width="200" height="400">
         </p>
 
     - #### Quiz Page
