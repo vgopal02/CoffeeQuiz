@@ -95,4 +95,30 @@
        </p>
 
 
+   -  ## Quiz Page
+        -   In the quiz the user comes straigh into the first question.
+        -   The top left corner shows the question counter and right corner has score counter.
+        -   The main body of the page has the question which gets picked in random from a database of questions which has been hardcoded.
+        -   The user has the opportunity to play 5 questions.
+        -   The correct answer will get highlighted in green and the user will get points which is added to their score .
+        - The incorrect answer will get highlighted in red and the user will not get any points. However , no points are deducted for the incorrect answer.
+        - There is an "exit" button at the bottom of the screen which allows the user to quit the quiz and return to home page at any time.
+
+
+<p align="center">
+       <img src="readme/hp1.png" alt="FullScreen Quiz Page Wire Frame" width="360" height="400">
+        <img src="readme/hp1-m.png" alt="FullScreen Quiz Page Wire Frame"width="360" height="400">
+       </p>
+
+<p align="center">
+       <img src="readme/hp2.png" alt="FullScreen Quiz Page Wire Frame" width="300" height="500">
+        <img src="readme/hp1-m.png" alt="FullScreen Quiz Page Wire Frame"width="300" height="500">
+       </p>
+
+<p align="center">
+       <img src="readme/hp3.png" alt="FullScreen Quiz Page Wire Frame" width="250" height="500">
+        <img src="readme/hp3-m.png" alt="FullScreen Quiz Page Wire Frame"width="250" height="500">
+       </p>
+
+
   
