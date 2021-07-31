@@ -84,7 +84,7 @@
        <img src="readme/hp-2.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
        </p>
 <p align="center">
-       <img src="readme/hp-3.png" alt="Mobile Quiz Page Wire Frame" width="500" height="400">
+       <img src="readme/hp-3.png" alt="Instructions Modal" width="500" height="400">
         </p>
 
   -  ## Quiz Page
