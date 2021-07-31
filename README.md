@@ -79,37 +79,20 @@
         - The instructions option opens up a modal where the user is able to understand how to proceed further.
         -   The page is responsive on all device sizes
 
- <p float="left">
-       <img src="readme/hp-1.png" alt="FullScreen Quiz Page Wire Frame" width="475" height="400">
-       <img src="readme/hp-2.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
+<p float="left">
+       <img src="readme/hp1.png" alt="FullScreen Quiz Page Wire Frame" width="360" height="400">
+        <img src="readme/hp1-m.png" alt="FullScreen Quiz Page Wire Frame"width="360" height="400">
        </p>
+
 <p align="center">
-       <img src="readme/hp-3.png" alt="Instructions Modal" width="500" height="400">
-        </p>
+       <img src="readme/hp2.png" alt="FullScreen Quiz Page Wire Frame" width="300" height="500">
+        <img src="readme/hp1-m.png" alt="FullScreen Quiz Page Wire Frame"width="300" height="500">
+       </p>
 
-  -  ## Quiz Page
-        -   Quiz Page.
+<p align="center">
+       <img src="readme/hp3.png" alt="FullScreen Quiz Page Wire Frame" width="250" height="500">
+        <img src="readme/hp3-m.png" alt="FullScreen Quiz Page Wire Frame"width="250" height="500">
+       </p>
 
- <p float="left">
-       <img src="readme/hp-1.png" alt="FullScreen Quiz Page Wire Frame" width="350" height="400">
-       <img src="readme/hp-2.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
-       <img src="readme/hp-4.png" alt="Mobile Quiz Page Wire Frame" width="350" height="400">
-        </p>
 
--  ## Final Page
-    -   Final Page.
-
- <p float="left">
-       <img src="readme/hp-1.png" alt="FullScreen Quiz Page Wire Frame" width="350" height="400">
-       <img src="readme/hp-2.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
-       <img src="readme/hp-3.png" alt="Mobile Quiz Page Wire Frame" width="350" height="400">
-        </p>
-
--  ## High Scores Page
-    -   High Page.
-
- <p float="left">
-       <img src="readme/hp-1.png" alt="FullScreen Quiz Page Wire Frame" width="350" height="400">
-       <img src="readme/hp-2.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
-       <img src="readme/hp-3.png" alt="Mobile Quiz Page Wire Frame" width="350" height="400">
-        </p>
+  
