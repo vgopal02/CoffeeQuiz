@@ -67,3 +67,18 @@
        <img src="readme/wf-cp-1.png" alt="FullScreen Quiz Page Wire Frame" width="350" height="400">
         <img src="readme/wf-cp-2.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
         </p>
+
+## Features
+
+-   Responsive on all device sizes
+
+   -  #### Home Page
+-   The user is welcomed into the site with striking image whilst ensuring focus of attention remains the quiz .
+
+ <p float="left">
+       <img src="readme/hp-1.png" alt="FullScreen Quiz Page Wire Frame" width="450" height="400">
+        <img src="readme/hp-2.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
+        </p>
+        <img src="readme/hp-1.png" alt="FullScreen Quiz Page Wire Frame" width="450" height="400">
+        <img src="readme/hp-3.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
+        </p>
