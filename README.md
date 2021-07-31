@@ -132,3 +132,129 @@
        <img src="readme/hs1.png" alt="FullScreen Quiz Page Wire Frame" width="600" height="400">
         <img src="readme/hs2.png" alt="FullScreen Quiz Page Wire Frame"width="200" height="400">
        </p>
+<br>
+
+# Technologies Used
+
+### Languages Used
+
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+-   [Javascript](https://en.wikipedia.org/wiki/JavaScript)
+
+### Frameworks, Libraries & Programs Used
+
+- [Google Fonts:](https://fonts.google.com/)
+    - Google fonts has been used to import the 'Raleway' , 'Josefin' and 'Dancing Script' fonts into the style.css file which is used throughout the project.
+- [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome has been used on all pages throughout the website to add icons for aesthetic and UX purposes.
+- [Git](https://git-scm.com/)
+    - Git has been used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+- [GitHub:](https://github.com/)
+    - GitHub has been used to store the projects code after being pushed from Git.
+- [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq has been used to create the wireframes during the design process.
+
+
+## Testing
+
+The W3C Markup Validator and W3C CSS Validator Services has been used to validate every page of the project to ensure there is no syntax errors in the project.
+
+-   #### Home Page - index.html
+<img src="readme/images/wf_resultshot.png" alt="screenshot of code validation result" width="300" height="100"/>
+
+-   #### Gallery Page - gallery.html
+<img src="readme/images/wf_resultshot.png" alt="screenshot of code validation result" width="300" height="100"/>
+
+-   #### Contact Us Page - contact.html
+<img src="readme/images/wf_resultshot.png" alt="screenshot of code validation result" width="300" height="100"/>
+
+-   #### CSS - style.css
+<a href="http://jigsaw.w3.org/css-validator/check/referer"><img style="border:0;width:88px;height:31px" src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" /> </a>
+
+            
+### Testing User Stories from User Experience (UX) Section
+
+-   #### First Time Visitor Goals
+
+    1. As a First Time Visitor, I want to easily understand the main purpose of the site - learn more about the organisation and what services it offers.
+
+        1. Upon entering the site, users are automatically greeted with a clean brand logo and social media links. 
+      
+        2. This is followed by easily readable navigation bar to go to the page of their choice. There is a Hero Image with brand text followed by an "About Us Section". 
+        
+        3. Between the "Hero-Image" and "About Us' section there is also a small arrow which indicates to users that there are more details below the about-us section to which they may go directly.
+
+    2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+
+        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes the page they will end up at clearly.
+
+        2. As the site in its current state is primarily information based - social media is essential. Therefore, social media links have been placed at the top to allow users to navigate without having to search for them.
+
+        3. Within  the home page as users scroll down for more information , there is a "Join Us" link which is the next point of call should they wish to proceed further . This is to ensure the user does not feel entrapped and always has a link to connect to without having to scroll back upto the navigation bar.
+
+        4. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
+   
+### Further Testing
+
+-   The Website has been tested on Google Chrome, Firefox and Safari browsers.
+
+-   The website has been viewed on different devices such as Desktop, Laptop, iPhone5, iPhone 6/7/8 & iPhoneX and site has been designed to be responsive on devices with minimum 240px width upto desktop.
+
+-   The website has also been viewed on a variety of different devices through Chrome Developer Tools.
+
+-  Testing has been done to ensure that all pages are linking correctly.
+
+-  Friends and family members  across global locations ( US, India, Singpore and UK) have been asked to review the site and document any bugs and/or user experience issues.
+
+
+## Deployment
+
+### GitHub Pages
+
+The project has been created on gitpod and deployed to GitHub Pages using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+
+5. The page will automatically refresh.
+
+6. Scroll back down through the page to locate the now published site [link](https://vgopal02.github.io/CoffeeQuiz) in the "GitHub Pages" section.
+
+
+## Credits
+
+### Code
+
+-   [Arcode Code](https://youtu.be/6RcpEhI7BAw) : For hamburger navigation bar. Code has been modified to better fit my needs using only CSS and to create a hamburger menu which centered itself . Tutorial Found [Here](https://youtu.be/6RcpEhI7BAw)
+
+### Content
+
+-   All content has been written by the developer.
+
+-   Colors for the site have been chosen based on color properties described [here](http://www.colour-affects.co.uk/psychological-properties-of-colours). The color green has been chosen based on the brand USP 'Balance' while supporting colors have been based on the combinations suggested by [colorcombos](https://www.colorcombos.com).
+
+
+### Media
+
+-  All images have been sourced from [Pexels](https://www.pexels.com) and [Unsplash](https://www.unsplash.com).
+
+-  Screen Shots have been sourced from [AmIresponsive](http://ami.responsivedesign.is/) and Chrome GoFull PageScreen Capture.
+
+### Inspiring Websites:
+- [YogaJournal](https://www.yogajournal.com/)
+- [YogaHaven](https://www.yogahaven.co.uk/)
+- [YogaHub](https://www.yogahub.co.uk/)
+- [SchoolsOutChildcare](https://moirahartigan.github.io/Ms1-Schools-Out-Childcare/)
+- [Kairosity](https://kairosity.github.io/milestone-project-1-cv-website/#home-section)
+- [CaterpillarMontessori](https://constantinadrian.github.io/Caterpillar_Montessori_MS_1/index.html)
+
+### Acknowledgements
+
+-  I would like thank my mentor Medale Oluwafemi. His guidance in giving constructive feedback through all stages of site design and development has been most valuable.
+
