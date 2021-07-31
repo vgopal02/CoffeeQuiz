@@ -47,27 +47,29 @@
         <p> Imagery is important.The homepage image is designed to be striking and catch the user's attention. However, the use of imagery is limited in the site so as to not distract the user from the key the objective of the site which is to play the quiz. </p>
 
 
-  # Wireframes 
-
-    <p>Wireframes have been created using Balsamiq.</p>
+  #  Wireframes 
+  
+  - <p>Wireframes have been created using Balsamiq.</p>
     
-   
     -  #### Home
-       <p float="left">
+    <p float="left">
        <img src="readme/wf-hp-1.png" alt="FullScreen Home Page Wire Frame" width="350" height="400">
         <img src="readme/wf-hp-2.png" alt="Mobile Home Page Wire Frame" width="200" height="400">
         </p>
 
     - #### Quiz Page
-        <p float="left">
+    <p float="left">
        <img src="readme/wf-qp-1.png" alt="FullScreen Quiz Page Wire Frame" width="350" height="400">
         <img src="readme/wf-qp-2_.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
         </p>
+
     - #### Final Page
-       <p float="left">
+    <p float="left">
        <img src="readme/wf-cp-1.png" alt="FullScreen Quiz Page Wire Frame" width="350" height="400">
         <img src="readme/wf-cp-2.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
         </p>
+
+    
 
 # Features
 
@@ -78,11 +80,11 @@
         -   The page is responsive on all device sizes
 
  <p float="left">
-       <img src="readme/hp-1.png" alt="FullScreen Quiz Page Wire Frame" width="360" height="400">
-       <img src="readme/hp-3.png" alt="Mobile Quiz Page Wire Frame" width="360" height="400">
+       <img src="readme/hp-1.png" alt="FullScreen Quiz Page Wire Frame" width="450" height="400">
+       <img src="readme/hp-2.png" alt="Mobile Quiz Page Wire Frame" width="250" height="400">
        </p>
 <p align="center">
-       <img src="readme/hp-2.png" alt="Mobile Quiz Page Wire Frame" width="250" height="400">
+       <img src="readme/hp-3.png" alt="Mobile Quiz Page Wire Frame" width="500" height="400">
         </p>
 
   -  ## Quiz Page
