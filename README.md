@@ -79,7 +79,7 @@
         - The instructions option opens up a modal where the user is able to understand how to proceed further.
         -   The page is responsive on all device sizes
 
-<p float="left">
+<p align="center">
        <img src="readme/hp1.png" alt="FullScreen Quiz Page Wire Frame" width="360" height="400">
         <img src="readme/hp1-m.png" alt="FullScreen Quiz Page Wire Frame"width="360" height="400">
        </p>
