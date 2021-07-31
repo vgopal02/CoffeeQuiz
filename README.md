@@ -80,8 +80,8 @@
         -   The page is responsive on all device sizes
 
 <p align="center">
-       <img src="readme/hp1.png" alt="FullScreen Quiz Page Wire Frame" width="360" height="400">
-        <img src="readme/hp1-m.png" alt="FullScreen Quiz Page Wire Frame"width="360" height="400">
+       <img src="readme/hp1.png" alt="FullScreen Quiz Page Wire Frame" width="450" height="400">
+        <img src="readme/hp1-m.png" alt="FullScreen Quiz Page Wire Frame"width="450" height="400">
        </p>
 
 <p align="center">
@@ -94,6 +94,7 @@
         <img src="readme/hp3-m.png" alt="FullScreen Quiz Page Wire Frame"width="250" height="500">
        </p>
 
+<br>
 
    -  ## Quiz Page
         -   In the quiz the user comes straigh into the first question.
@@ -110,15 +111,27 @@
         <img src="readme/qp2.png" alt="FullScreen Quiz Page Wire Frame"width="200" height="400">
        </p>
 
-<p align="center">
-       <img src="readme/hp2.png" alt="FullScreen Quiz Page Wire Frame" width="300" height="500">
-        <img src="readme/hp1-m.png" alt="FullScreen Quiz Page Wire Frame"width="300" height="500">
-       </p>
+<br>
+
+-  ## Conclude Page
+    -   In the conclusion page the user's final score is shown.
+    -   The user may save the score by adding their name into the username input box and pressing save.
+    -   The score is automatically saved to the highscores page and the user is automatically taken back to the home page.
+    -   It is important to note that the "Save" button is disable by default and only gets activated when the user inputs some text into the input box.
+    -   If the user does not wish to save the score they have two other options - Go back to home page or to play the game again.
+    
+
 
 <p align="center">
-       <img src="readme/hp3.png" alt="FullScreen Quiz Page Wire Frame" width="250" height="500">
-        <img src="readme/hp3-m.png" alt="FullScreen Quiz Page Wire Frame"width="250" height="500">
+       <img src="readme/cp1.png" alt="FullScreen Quiz Page Wire Frame" width="600" height="400">
+        <img src="readme/cp2.png" alt="FullScreen Quiz Page Wire Frame"width="200" height="400">
        </p>
 
+  -  ## Highscores Page
+        -   In the highscores page the user can view their highscores. Upto 5 of their last highscores are saved.
+        - The user can then go back to the homepage or play the quiz again.
 
-  
+<p align="center">
+       <img src="readme/hs1.png" alt="FullScreen Quiz Page Wire Frame" width="600" height="400">
+        <img src="readme/hs2.png" alt="FullScreen Quiz Page Wire Frame"width="200" height="400">
+       </p>
