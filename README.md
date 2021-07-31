@@ -46,7 +46,7 @@
         <p> Imagery is important.The homepage image is designed to be striking and catch the user's attention. However, the use of imagery is limited in the site so as to not distract the user from the key the objective of the site which is to play the quiz. </p>
 
 
--  ### Wireframes 
+  # Wireframes 
 
     <p>Wireframes have been created using Balsamiq.</p>
     
@@ -68,17 +68,41 @@
         <img src="readme/wf-cp-2.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
         </p>
 
-## Features
+# Features
 
--   Responsive on all device sizes
-
-   -  #### Home Page
--   The user is welcomed into the site with striking image whilst ensuring focus of attention remains the quiz .
+   -  ## Home Page
+        -   The user is welcomed into the site with striking image whilst ensuring focus of attention remains the quiz .
+        -   Responsive on all device sizes
 
  <p float="left">
-       <img src="readme/hp-1.png" alt="FullScreen Quiz Page Wire Frame" width="450" height="400">
-        <img src="readme/hp-2.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
+       <img src="readme/hp-1.png" alt="FullScreen Quiz Page Wire Frame" width="350" height="400">
+       <img src="readme/hp-2.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
+       <img src="readme/hp-3.png" alt="Mobile Quiz Page Wire Frame" width="350" height="400">
         </p>
-        <img src="readme/hp-1.png" alt="FullScreen Quiz Page Wire Frame" width="450" height="400">
-        <img src="readme/hp-3.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
+
+  -  ## Quiz Page
+        -   Quiz Page.
+
+ <p float="left">
+       <img src="readme/hp-1.png" alt="FullScreen Quiz Page Wire Frame" width="350" height="400">
+       <img src="readme/hp-2.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
+       <img src="readme/hp-3.png" alt="Mobile Quiz Page Wire Frame" width="350" height="400">
+        </p>
+
+-  ## Final Page
+    -   Final Page.
+
+ <p float="left">
+       <img src="readme/hp-1.png" alt="FullScreen Quiz Page Wire Frame" width="350" height="400">
+       <img src="readme/hp-2.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
+       <img src="readme/hp-3.png" alt="Mobile Quiz Page Wire Frame" width="350" height="400">
+        </p>
+
+-  ## High Scores Page
+    -   High Page.
+
+ <p float="left">
+       <img src="readme/hp-1.png" alt="FullScreen Quiz Page Wire Frame" width="350" height="400">
+       <img src="readme/hp-2.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
+       <img src="readme/hp-3.png" alt="Mobile Quiz Page Wire Frame" width="350" height="400">
         </p>
