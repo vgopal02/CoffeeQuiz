@@ -93,7 +93,7 @@
  <p float="left">
        <img src="readme/hp-1.png" alt="FullScreen Quiz Page Wire Frame" width="350" height="400">
        <img src="readme/hp-2.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
-       <img src="readme/hp-3.png" alt="Mobile Quiz Page Wire Frame" width="350" height="400">
+       <img src="readme/hp-4.png" alt="Mobile Quiz Page Wire Frame" width="350" height="400">
         </p>
 
 -  ## Final Page
