@@ -106,8 +106,8 @@
 
 
 <p align="center">
-       <img src="readme/hp1.png" alt="FullScreen Quiz Page Wire Frame" width="360" height="400">
-        <img src="readme/hp1-m.png" alt="FullScreen Quiz Page Wire Frame"width="360" height="400">
+       <img src="readme/qp1.png" alt="FullScreen Quiz Page Wire Frame" width="600" height="400">
+        <img src="readme/qp2.png" alt="FullScreen Quiz Page Wire Frame"width="200" height="400">
        </p>
 
 <p align="center">
