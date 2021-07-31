@@ -58,12 +58,12 @@
         </p>
 
     - #### Quiz Page
-        <p>
-       <img src="readme/wf-qp-1.png" alt="FullScreen Quiz Page Wire Frame" width="500" height="600">
-        <img src="readme/wf-qp-2_.png" alt="Mobile Quiz Page Wire Frame" width="300" height="600">
+        <p float="left">
+       <img src="readme/wf-qp-1.png" alt="FullScreen Quiz Page Wire Frame" width="350" height="400">
+        <img src="readme/wf-qp-2_.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
         </p>
     - #### Final Page
-        <p>
-       <img src="readme/wf-cp-1.png" alt="FullScreen Quiz Page Wire Frame" width="500" height="600">
-        <img src="readme/wf-cp-2.png" alt="Mobile Quiz Page Wire Frame" width="300" height="600">
+       <p float="left">
+       <img src="readme/wf-cp-1.png" alt="FullScreen Quiz Page Wire Frame" width="350" height="400">
+        <img src="readme/wf-cp-2.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
         </p>
