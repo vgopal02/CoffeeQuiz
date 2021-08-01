@@ -58,14 +58,20 @@
     </p>
     - #### Quiz Page
     <p float="left">
-       <img src="readme/wireframes/wf-qp-1.png" alt="FullScreen Quiz Page Wire Frame" width="350" height="400">
-        <img src="readme/wireframes/wf-qp-2_.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
+       <img src="readme/wireframes/wf-qp-1.png" alt="FullScreen Quiz Page Wire Frame" width="550" height="500">
+        <img src="readme/wireframes/wf-qp-2_.png" alt="Mobile Quiz Page Wire Frame" width="220" height="500">
         </p>
 
-    - #### Final Page
+    - #### Conclude Page
     <p float="left">
-       <img src="readme/wireframes/wf-cp-1.png" alt="FullScreen Quiz Page Wire Frame" width="350" height="400">
-        <img src="readme/wireframes/wf-cp-2.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
+       <img src="readme/wireframes/wf-cp-1.png" alt="FullScreen Quiz Page Wire Frame" width="550" height="500">
+        <img src="readme/wireframes/wf-cp-2.png" alt="Mobile Quiz Page Wire Frame" width="220" height="500">
+        </p>
+
+    - #### High Scores Page
+    <p float="left">
+       <img src="readme/wireframes/wf-hs-1.png" alt="FullScreen Quiz Page Wire Frame" width="550" height="500">
+        <img src="readme/wireframes/wf-hs-2.png" alt="Mobile Quiz Page Wire Frame" width="220" height="500">
         </p>
 
     
