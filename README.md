@@ -2,7 +2,7 @@
 
 [View the live project here.](https://vgopal02.github.io/CoffeeQuiz/)
 
-<p style="justify">This is a fun quiz designed to test the  knowledge of all coffee lovers and even those who are not. Based on a set of hardcoded questions the user is tested to 5 random questions each time they play.Each correct answer is worth 10 points. A score card at the top of the screen keeps score and also allows the user to see which question they are on. Upon completion of the quiz a final the user may save their score with the option to play again.  </p>
+<p style="justify">This is a fun quiz designed to test the  knowledge of all coffee lovers and even those who are not. Based on a set of hardcoded questions the user is tested to 5 random questions each time they play.Each correct answer is worth 10 points. A score card at the top of the screen keeps score and also allows the user to see which question they are on. Upon completion of the quiz the user may save their score with the option to play again.  </p>
 
 <h2 align="center"><img src="readme/images/home-page.png" alt="Website Screen Shot on different screen sizes" width="700" height="400"></h2>
 
@@ -83,8 +83,10 @@
    -  ## Home Page
         -   The user is welcomed into the site with striking image whilst ensuring focus of attention remains the quiz .
         -   The user has three clear options - to be able to play the game , view instructions of the game or to view highscores generated so far.
-        - The instructions option opens up a modal where the user is able to understand how to proceed further.
+        -   The instructions option opens up a modal where the user is able to understand how to proceed further.
         -   The page is responsive on all device sizes
+        -   Font Colors have been limited to white and black to ensure text is visible against its background and clear to the user.
+        
 
 <p align="center">
        <img src="readme/images/hp.png" alt="FullScreen Quiz Page Wire Frame" width="600" height="500">
@@ -105,9 +107,10 @@
         -   The top left corner shows the question counter and right corner has score counter.
         -   The main body of the page has the question which gets picked in random from a database of questions which has been hardcoded.
         -   The user has the opportunity to play 5 questions.
-        -   The correct answer will get highlighted in green and the user will get points which is added to their score .
-        - The incorrect answer will get highlighted in red and the user will not get any points. However , no points are deducted for the incorrect answer.
-        - There is an "exit" button at the bottom of the screen which allows the user to quit the quiz and return to home page at any time.
+        -   The correct answer will get highlighted in green and the user will get 10 points which is added to their score .
+        -   The incorrect answer will get highlighted in red and the user will not get any points. However , no points are deducted for the incorrect answer.
+        -   There is a 1 second delay after the user answers a question before moving to the next one.
+        -   There is an "exit" button at the bottom of the screen which allows the user to quit the quiz and return to home page at any time.
 
 
 <p align="center">
@@ -120,24 +123,24 @@
 -  ## Conclude Page
     -   In the conclusion page the user's final score is shown.
     -   The user may save the score by adding their name into the username input box and pressing save.
-    -   The score is automatically saved to the highscores page and the user is automatically taken back to the home page.
+    -   The score is automatically saved to the highscores page and the user is taken back to the home page.
     -   It is important to note that the "Save" button is disable by default and only gets activated when the user inputs some text into the input box.
     -   If the user does not wish to save the score they have two other options - Go back to home page or to play the game again.
     
 
 
 <p align="center">
-       <img src="readme/images/cp.png" alt="FullScreen Quiz Page Wire Frame" width="600" height="500">
-        <img src="readme/images/cp-mob.png" alt="FullScreen Quiz Page Wire Frame"width="220" height="500">
+       <img src="readme/images/cp.png" alt="FullScreen conclusion Page Wire Frame" width="600" height="500">
+        <img src="readme/images/cp-mob.png" alt="FullScreen conclusion Page Wire Frame"width="220" height="500">
        </p>
 
   -  ## Highscores Page
         -   In the highscores page the user can view their highscores. Upto 5 of their last highscores are saved.
-        - The user can then go back to the homepage or play the quiz again.
+        -   The user can then go back to the homepage or play the quiz again.
 
 <p align="center">
-       <img src="readme/images/hs.png" alt="FullScreen Quiz Page Wire Frame" width="600" height="500">
-        <img src="readme/images/hs-mob.png" alt="FullScreen Quiz Page Wire Frame"width="220" height="500">
+       <img src="readme/images/hs.png" alt="FullScreen High scores Page Wire Frame" width="600" height="500">
+        <img src="readme/images/hs-mob.png" alt="FullScreen High scores Page Wire Frame"width="220" height="500">
        </p>
 <br>
 
@@ -187,23 +190,29 @@ The W3C Markup Validator and W3C CSS Validator Services has been used to validat
 
 -   #### First Time Visitor Goals
 
-    1. As a First Time Visitor, I want to easily understand the main purpose of the site - learn more about the organisation and what services it offers.
+    1. As a First Time Visitor, I want to easily understand the theme of the quiz , instructions on how to play and ability to play it.
 
-        1. Upon entering the site, users are automatically greeted with a clean brand logo and social media links. 
+        1. Upon entering the site, users are automatically greeted with a clean image of coffee.
       
-        2. This is followed by easily readable navigation bar to go to the page of their choice. There is a Hero Image with brand text followed by an "About Us Section". 
-        
-        3. Between the "Hero-Image" and "About Us' section there is also a small arrow which indicates to users that there are more details below the about-us section to which they may go directly.
+        2. This is followed by three easily readable options - to play , instructions on how to play and to be able to view saved high scores. 
 
     2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
 
-        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes the page they will end up at clearly.
+        1. The site has been designed to be fluid and never to entrap the user. Each link clearly describes the page they will end up at clearly.
 
-        2. As the site in its current state is primarily information based - social media is essential. Therefore, social media links have been placed at the top to allow users to navigate without having to search for them.
+        2. All of the information is within the visibility of the user irrespective of the screen size.
 
-        3. Within  the home page as users scroll down for more information , there is a "Join Us" link which is the next point of call should they wish to proceed further . This is to ensure the user does not feel entrapped and always has a link to connect to without having to scroll back upto the navigation bar.
+        3. Font colors and sizes have been designed to ensure the information is clear to the user at all times.
 
-        4. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
+        
+
+  -   #### Returning Visitor Goals
+
+    1. As a Returning Visitor, I want to find the quiz fresh.
+
+        1. The questions are picked in random order from a database of hardcoded questions.
+
+        2. This makes it a challenge for the user as they will be tested to new questions.
    
 ### Further Testing
 
@@ -215,8 +224,11 @@ The W3C Markup Validator and W3C CSS Validator Services has been used to validat
 
 -  Testing has been done to ensure that all pages are linking correctly.
 
--  Friends and family members  across global locations ( US, India, Singpore and UK) have been asked to review the site and document any bugs and/or user experience issues.
+-  Friends and family members  across global locations  have been asked to review the site and document any bugs and/or user experience issues.
 
+### Known Bugs
+
+On some smaller mobile devices longer option choices in the quiz section overlap into the next option. As there are only two such questions with longer answer options font sizes on smaller devices have not been reduced beyond 16px. An option to resolve the problem being considered is to extend the size of the answers option choice box in smaller screens. 
 
 ## Deployment
 
@@ -245,9 +257,11 @@ The project has been created on gitpod and deployed to GitHub Pages using the fo
 
 ### Content
 
+-   All content was written by the developer .
+
 -   Questions for the quiz have been inspired by [Espresso and Coffee Guide](espressocoffeeguide.com) and [Coffee Quiz](www.coffeeteaclub.co.uk)  .
 
--   Colors for the site have been chosen based on color properties described [here](http://www.colour-affects.co.uk/psychological-properties-of-colours). The color green has been chosen based on the brand USP 'Balance' while supporting colors have been based on the combinations suggested by [colorcombos](https://www.colorcombos.com).
+-   Colors for the site have been chosen based combinations created in [colorcombos](https://www.colorcombos.com/combomaker.html?design=pencils&output_width=75&size_option=element&colors=5D7FA1,FFF9F9,F68405,020202&background_color=FFFFFF&show_hex_flag=Y).
 
 
 ### Media
