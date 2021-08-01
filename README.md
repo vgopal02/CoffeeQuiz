@@ -249,13 +249,12 @@ The project has been created on gitpod and deployed to GitHub Pages using the fo
 
 -  Screen Shots have been sourced from [AmIresponsive](http://ami.responsivedesign.is/) and Chrome GoFull PageScreen Capture.
 
-### Inspiring Websites:
-- [YogaJournal](https://www.yogajournal.com/)
-- [YogaHaven](https://www.yogahaven.co.uk/)
-- [YogaHub](https://www.yogahub.co.uk/)
-- [SchoolsOutChildcare](https://moirahartigan.github.io/Ms1-Schools-Out-Childcare/)
-- [Kairosity](https://kairosity.github.io/milestone-project-1-cv-website/#home-section)
-- [CaterpillarMontessori](https://constantinadrian.github.io/Caterpillar_Montessori_MS_1/index.html)
+### Inspiring Quiz/Trivia:
+- [Trivia Quiz](https://constantinadrian.github.io/Trivia_Quiz)
+- [Quiz Game on Flags](https://craigharrison79.github.io/MS2-Quiz-Game/)
+- [Simple Javascript Quiz](https://simplestepscode.com/javascript-quiz-tutorial/)
+- [Javascript Quiz with Timer](https://www.codingnepalweb.com/quiz-app-with-timer-javascript/)
+
 
 ### Acknowledgements
 
