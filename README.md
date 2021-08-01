@@ -81,12 +81,12 @@
 
 <p align="center">
        <img src="readme/images/hp.png" alt="FullScreen Quiz Page Wire Frame" width="600" height="500">
-        <img src="readme/hp3.png" alt="FullScreen Quiz Page Wire Frame"width="200" height="500">
+        <img src="readme/images/hp-mob.png" alt="FullScreen Quiz Page Wire Frame"width="200" height="500">
        </p>
 
 <p align="center">
        <img src="readme/images/hp_modal.png" alt="FullScreen Quiz Page Wire Frame" width="600" height="500">
-        <img src="readme/hp3-m.png" alt="FullScreen Quiz Page Wire Frame"width="200" height="500">
+        <img src="readme/images/hp_modal-mob.png" alt="FullScreen Quiz Page Wire Frame"width="200" height="500">
        </p>
 
 
@@ -120,8 +120,8 @@
 
 
 <p align="center">
-       <img src="readme/cp1.png" alt="FullScreen Quiz Page Wire Frame" width="600" height="400">
-        <img src="readme/cp2.png" alt="FullScreen Quiz Page Wire Frame"width="200" height="400">
+       <img src="readme/images/cp.png" alt="FullScreen Quiz Page Wire Frame" width="600" height="400">
+        <img src="readme/images/cp-mob.png" alt="FullScreen Quiz Page Wire Frame"width="200" height="400">
        </p>
 
   -  ## Highscores Page
@@ -129,8 +129,8 @@
         - The user can then go back to the homepage or play the quiz again.
 
 <p align="center">
-       <img src="readme/hs1.png" alt="FullScreen Quiz Page Wire Frame" width="600" height="400">
-        <img src="readme/hs2.png" alt="FullScreen Quiz Page Wire Frame"width="200" height="400">
+       <img src="readme/images/hs.png" alt="FullScreen Quiz Page Wire Frame" width="600" height="400">
+        <img src="readme/images/hs-mob.png" alt="FullScreen Quiz Page Wire Frame"width="200" height="400">
        </p>
 <br>
 
