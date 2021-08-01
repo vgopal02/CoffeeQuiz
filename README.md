@@ -192,7 +192,7 @@ The W3C Markup Validator and W3C CSS Validator Services has been used to validat
 
     1. As a First Time Visitor, I want to easily understand the theme of the quiz , instructions on how to play and ability to play it.
 
-        1. Upon entering the site, users are automatically greeted with a clean image of coffee.
+        1. Upon entering the site, users are automatically greeted with a clean image of coffee and a brief description of the quiz.
       
         2. This is followed by three easily readable options - to play , instructions on how to play and to be able to view saved high scores. 
 
@@ -211,7 +211,7 @@ The W3C Markup Validator and W3C CSS Validator Services has been used to validat
 
         1. The questions are picked in random order from a database of hardcoded questions.
 
-        2. This makes it a challenge for the user as they will be tested to new questions.
+        2. This makes it a challenge for the user as they will be always be asked different questions.
 
 
 -   #### Frequent User Goals
@@ -234,7 +234,7 @@ The W3C Markup Validator and W3C CSS Validator Services has been used to validat
 
 ### Known Bugs
 
-On some smaller mobile devices longer option choices in the quiz section overlap into the next option. As there are only two such questions with longer answer options font sizes on smaller devices have not been reduced beyond 16px. An option to resolve the problem being considered is to extend the size of the answers option choice box in smaller screens. 
+On some smaller mobile devices longer answer choices in the quiz section overlap into the next option. As there are only two such questions with longer answer choices font sizes on smaller devices have not been reduced beyond 16px. One option to resolve the problem being considered is to extend the height of the answers option choice box in smaller screens. 
 
 ## Deployment
 
