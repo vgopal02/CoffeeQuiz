@@ -86,7 +86,7 @@
 
 <p align="center">
        <img src="readme/images/hp_modal.png" alt="FullScreen Quiz Page Wire Frame" width="600" height="500">
-        <img src="readme/images/hp_modal-mob.png" alt="FullScreen Quiz Page Wire Frame"width="200" height="500">
+        <img src="readme/images/hp_modal-mob.png" alt="FullScreen Quiz Page Wire Frame"width="220" height="500">
        </p>
 
 
@@ -105,7 +105,7 @@
 
 <p align="center">
        <img src="readme/images/qp.png" alt="FullScreen Quiz Page Wire Frame" width="600" height="400">
-        <img src="readme/images/qp-mob.png" alt="FullScreen Quiz Page Wire Frame"width="200" height="400">
+        <img src="readme/images/qp-mob.png" alt="FullScreen Quiz Page Wire Frame"width="220" height="500">
        </p>
 
 <br>
@@ -121,7 +121,7 @@
 
 <p align="center">
        <img src="readme/images/cp.png" alt="FullScreen Quiz Page Wire Frame" width="600" height="400">
-        <img src="readme/images/cp-mob.png" alt="FullScreen Quiz Page Wire Frame"width="200" height="400">
+        <img src="readme/images/cp-mob.png" alt="FullScreen Quiz Page Wire Frame"width="220" height="500">
        </p>
 
   -  ## Highscores Page
@@ -130,7 +130,7 @@
 
 <p align="center">
        <img src="readme/images/hs.png" alt="FullScreen Quiz Page Wire Frame" width="600" height="400">
-        <img src="readme/images/hs-mob.png" alt="FullScreen Quiz Page Wire Frame"width="200" height="400">
+        <img src="readme/images/hs-mob.png" alt="FullScreen Quiz Page Wire Frame"width="220" height="500">
        </p>
 <br>
 
