@@ -37,8 +37,8 @@
        <p> 1. #fddcc356 </p>
        <p> 2. #6b7a8f </p> 
        <p> 3. #f7882f </p> 
-       <p> White & Black for Typography. </p> 
-       <p> Red and Green to highlight correct and incorrect answers in quiz. </p> 
+       <p> 4.White & Black for Typography. </p> 
+       <p> 5.Red and Green to highlight correct and incorrect answers in quiz. </p> 
  
     - #### Typography
         <p>The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.</p>
@@ -184,6 +184,22 @@ The W3C Markup Validator and W3C CSS Validator Services has been used to validat
 
 -   #### CSS - style.css
 <a href="http://jigsaw.w3.org/css-validator/check/referer"><img style="border:0;width:88px;height:31px" src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" /> </a>
+
+-   #### JavaScript
+
+JShint has been used to verify all js code. 
+
+-   #### Modal Page - modal.js
+<img src="readme/images/js_Modal.png" alt="screenshot of code validation result" width="300" height="100"/>
+
+-   #### Quiz Page - quiz.js
+<img src="readme/images/js_quiz.png" alt="screenshot of code validation result" width="300" height="100"/>
+
+-   #### Conclude Page - conclude.js
+<img src="readme/images/js_conclude.png" alt="screenshot of code validation result" width="300" height="100"/>
+
+-   #### HighScores Page - highscores.js
+<img src="readme/images/js_highscores.png" alt="screenshot of code validation result" width="300" height="100"/>
 
             
 ### Testing User Stories from User Experience (UX) Section
