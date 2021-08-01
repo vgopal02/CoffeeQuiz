@@ -81,7 +81,7 @@
 
 <p align="center">
        <img src="readme/images/hp.png" alt="FullScreen Quiz Page Wire Frame" width="600" height="500">
-        <img src="readme/images/hp-mob.png" alt="FullScreen Quiz Page Wire Frame"width="200" height="500">
+        <img src="readme/images/hp-mob.png" alt="FullScreen Quiz Page Wire Frame"width="220" height="500">
        </p>
 
 <p align="center">
