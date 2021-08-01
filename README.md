@@ -53,20 +53,20 @@
     
     -  #### Home
     <p float="left">
-       <img src="readme/wf-hp-1.png" alt="FullScreen Home Page Wire Frame" width="350" height="400">
-        <img src="readme/wf-hp-2.png" alt="Mobile Home Page Wire Frame" width="200" height="400">
+       <img src="readme/wireframes/wf-hp-1.png" alt="FullScreen Home Page Wire Frame" width="350" height="400">
+        <img src="readme/wireframes/wf-hp-2.png" alt="Mobile Home Page Wire Frame" width="200" height="400">
         </p>
 
     - #### Quiz Page
     <p float="left">
-       <img src="readme/wf-qp-1.png" alt="FullScreen Quiz Page Wire Frame" width="350" height="400">
-        <img src="readme/wf-qp-2_.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
+       <img src="readme/wireframes/wf-qp-1.png" alt="FullScreen Quiz Page Wire Frame" width="350" height="400">
+        <img src="readme/wireframes/wf-qp-2_.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
         </p>
 
     - #### Final Page
     <p float="left">
-       <img src="readme/wf-cp-1.png" alt="FullScreen Quiz Page Wire Frame" width="350" height="400">
-        <img src="readme/wf-cp-2.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
+       <img src="readme/wireframes/wf-cp-1.png" alt="FullScreen Quiz Page Wire Frame" width="350" height="400">
+        <img src="readme/wireframes/wf-cp-2.png" alt="Mobile Quiz Page Wire Frame" width="200" height="400">
         </p>
 
     
@@ -80,12 +80,12 @@
         -   The page is responsive on all device sizes
 
 <p align="center">
-       <img src="readme/hp1.png" alt="FullScreen Quiz Page Wire Frame" width="600" height="500">
+       <img src="readme/images/hp.png" alt="FullScreen Quiz Page Wire Frame" width="600" height="500">
         <img src="readme/hp3.png" alt="FullScreen Quiz Page Wire Frame"width="200" height="500">
        </p>
 
 <p align="center">
-       <img src="readme/hp1-m.png" alt="FullScreen Quiz Page Wire Frame" width="600" height="500">
+       <img src="readme/images/hp_modal.png" alt="FullScreen Quiz Page Wire Frame" width="600" height="500">
         <img src="readme/hp3-m.png" alt="FullScreen Quiz Page Wire Frame"width="200" height="500">
        </p>
 
@@ -104,8 +104,8 @@
 
 
 <p align="center">
-       <img src="readme/qp1.png" alt="FullScreen Quiz Page Wire Frame" width="600" height="400">
-        <img src="readme/qp2.png" alt="FullScreen Quiz Page Wire Frame"width="200" height="400">
+       <img src="readme/images/qp.png" alt="FullScreen Quiz Page Wire Frame" width="600" height="400">
+        <img src="readme/images/qp-mob.png" alt="FullScreen Quiz Page Wire Frame"width="200" height="400">
        </p>
 
 <br>
@@ -161,16 +161,16 @@
 The W3C Markup Validator and W3C CSS Validator Services has been used to validate every page of the project to ensure there is no syntax errors in the project.
 
 -   #### Home Page - index.html
-<img src="readme/index_html.png" alt="screenshot of code validation result" width="300" height="100"/>
+<img src="readme/images/index_html.png" alt="screenshot of code validation result" width="300" height="100"/>
 
 -   #### Quiz Page - quiz.html
-<img src="readme/quiz_html.png" alt="screenshot of code validation result" width="300" height="100"/>
+<img src="readme/images/quiz_html.png" alt="screenshot of code validation result" width="300" height="100"/>
 
 -   #### Conclude Page - conclude.html
-<img src="readme/con_html.png" alt="screenshot of code validation result" width="300" height="100"/>
+<img src="readme/images/con_html.png" alt="screenshot of code validation result" width="300" height="100"/>
 
 -   #### HighScores Page - highscores.html
-<img src="readme/con_html.png" alt="screenshot of code validation result" width="300" height="100"/>
+<img src="readme/images/hs_html.png" alt="screenshot of code validation result" width="300" height="100"/>
 
 -   #### CSS - style.css
 <a href="http://jigsaw.w3.org/css-validator/check/referer"><img style="border:0;width:88px;height:31px" src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" /> </a>
