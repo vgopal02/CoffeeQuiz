@@ -4,7 +4,7 @@
 
 <p style="justify">This is a fun quiz designed to test the  knowledge of all coffee lovers and even those who are not. Based on a set of hardcoded questions the user is tested to 5 random questions each time they play.Each correct answer is worth 10 points. A score card at the top of the screen keeps score and also allows the user to see which question they are on. Upon completion of the quiz a final the user may save their score with the option to play again.  </p>
 
-<h2 align="center"><img src="readme/home-page.png" alt="Website Screen Shot on different screen sizes" width="700" height="400"></h2>
+<h2 align="center"><img src="readme/images/home-page.png" alt="Website Screen Shot on different screen sizes" width="700" height="400"></h2>
 
 #  User Experience (UX)
 
@@ -33,7 +33,7 @@
     - #### Color Scheme
 
     The main colors used 
-        Colors used been inspired by coffee image. The main colors used are :
+        Colors used been inspired by coffee image whilst ensuring background colors and font colors remain clear and legible. The main colors used are :
        <p> 1. #fddcc356 </p>
        <p> 2. #6b7a8f </p> 
        <p> 3. #f7882f </p> 
@@ -234,11 +234,11 @@ The project has been created on gitpod and deployed to GitHub Pages using the fo
 
 ### Code
 
--   [Arcode Code](https://youtu.be/6RcpEhI7BAw) : For hamburger navigation bar. Code has been modified to better fit my needs using only CSS and to create a hamburger menu which centered itself . Tutorial Found [Here](https://youtu.be/6RcpEhI7BAw)
+-   [Build a Quiz](https://www.jamesqquick.com/courses/build-a-quiz-app-with-html-css-and-javascript) : For the quiz and saving user highscores. Code has been modified to better fit my needs . Tutorial Found [Here](https://www.jamesqquick.com/courses/build-a-quiz-app-with-html-css-and-javascript)
 
 ### Content
 
--   All content has been written by the developer.
+-   Questions for the quiz have been inspired by [Espresso and Coffee Guide](espressocoffeeguide.com) and [Coffee Quiz](www.coffeeteaclub.co.uk)  .
 
 -   Colors for the site have been chosen based on color properties described [here](http://www.colour-affects.co.uk/psychological-properties-of-colours). The color green has been chosen based on the brand USP 'Balance' while supporting colors have been based on the combinations suggested by [colorcombos](https://www.colorcombos.com).
 
