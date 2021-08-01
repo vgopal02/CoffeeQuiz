@@ -28,7 +28,7 @@
         2. This will require a large database of questions.
 
 
--   #### Design
+-   ### Design
 
     - #### Color Scheme
 
@@ -46,6 +46,7 @@
     - #### Imagery
         <p> Imagery is important.The homepage image is designed to be striking and catch the user's attention. However, the use of imagery is limited in the site so as to not distract the user from the key the objective of the site which is to play the quiz. </p>
 
+<br>
 
   #  Wireframes 
   
@@ -56,20 +57,21 @@
        <img src="readme/wireframes/wf-hp-1.png" alt="FullScreen Home Page Wire Frame" width="550" height="500">
         <img src="readme/wireframes/wf-hp-2.png" alt="Mobile Home Page Wire Frame" width="220" height="500"
     </p>
+
     - #### Quiz Page
-    <p float="left">
+    <p align="center">
        <img src="readme/wireframes/wf-qp-1.png" alt="FullScreen Quiz Page Wire Frame" width="550" height="500">
         <img src="readme/wireframes/wf-qp-2_.png" alt="Mobile Quiz Page Wire Frame" width="220" height="500">
         </p>
 
     - #### Conclude Page
-    <p float="left">
+    <p align="center">
        <img src="readme/wireframes/wf-cp-1.png" alt="FullScreen Quiz Page Wire Frame" width="550" height="500">
         <img src="readme/wireframes/wf-cp-2.png" alt="Mobile Quiz Page Wire Frame" width="220" height="500">
         </p>
 
     - #### High Scores Page
-    <p float="left">
+    <p align="center">
        <img src="readme/wireframes/wf-hs-1.png" alt="FullScreen Quiz Page Wire Frame" width="550" height="500">
         <img src="readme/wireframes/wf-hs-2.png" alt="Mobile Quiz Page Wire Frame" width="220" height="500">
         </p>
