@@ -51,12 +51,11 @@
   
   - <p>Wireframes have been created using Balsamiq.</p>
     
-    -  #### Home
-    <p float="left">
-       <img src="readme/wireframes/wf-hp-1.png" alt="FullScreen Home Page Wire Frame" width="350" height="400">
-        <img src="readme/wireframes/wf-hp-2.png" alt="Mobile Home Page Wire Frame" width="200" height="400">
-        </p>
-
+    -  #### Home Page
+    <p align="center">
+       <img src="readme/wireframes/wf-hp-1.png" alt="FullScreen Home Page Wire Frame" width="600" height="500">
+        <img src="readme/wireframes/wf-hp-2.png" alt="Mobile Home Page Wire Frame" width="220" height="500"
+    </p>
     - #### Quiz Page
     <p float="left">
        <img src="readme/wireframes/wf-qp-1.png" alt="FullScreen Quiz Page Wire Frame" width="350" height="400">
