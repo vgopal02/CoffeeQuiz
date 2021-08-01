@@ -204,15 +204,21 @@ The W3C Markup Validator and W3C CSS Validator Services has been used to validat
 
         3. Font colors and sizes have been designed to ensure the information is clear to the user at all times.
 
-        
 
-  -   #### Returning Visitor Goals
+ -  #### Returning Visitor Goals
 
     1. As a Returning Visitor, I want to find the quiz fresh.
 
         1. The questions are picked in random order from a database of hardcoded questions.
 
         2. This makes it a challenge for the user as they will be tested to new questions.
+
+
+-   #### Frequent User Goals
+
+       1. As a Frequent User, I want to be challenged to new questions in the quiz everytime.
+        
+          1. A large database of questions have been coded for the user to be challenged everytime they play.
    
 ### Further Testing
 
