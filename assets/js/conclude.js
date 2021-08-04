@@ -6,19 +6,20 @@ const mostRecentScore = localStorage.getItem('mostRecentScore');
 
 const highScores = JSON.parse(localStorage.getItem('highScores')) || [];
 
-//Maximum of 5 high scores can be saved and stored
-const MAX_HIGH_SCORES = 5;
-
+// This is the final score for the current round displayed which user may save
 finalScore.innerText = mostRecentScore;
 
-//Save button disabled until user adds text to the input 
+//Save button disabled until user adds text to the input field
 username.addEventListener('keyup', () => {
     saveScoreBtn.disabled = !username.value;
 });
 
+  // Save high score variable
+  let saveHighScore;
 saveHighScore = (e) => {
     e.preventDefault();
 
+//Maximum of 5 high scores can be stored in order of highest to lower scores
     const score = {
         score: mostRecentScore,
         name: username.value,
@@ -27,6 +28,7 @@ saveHighScore = (e) => {
     highScores.sort((a, b) => b.score - a.score);
     highScores.splice(5);
 
+//Score is saved to highscores.html and user returned to home page
     localStorage.setItem('highScores', JSON.stringify(highScores));
     window.location.assign('index.html');
 };
