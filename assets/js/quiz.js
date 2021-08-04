@@ -1,3 +1,7 @@
+//jshint esversion :6
+/*jshint sub:true*/
+
+//Constants
 const question = document.getElementById('question');
 const choices = Array.from(document.getElementsByClassName('choice-text'));
 const questionCounterText= document.getElementById('questionCounter');
@@ -9,6 +13,7 @@ let score = 0;
 let questionCounter = 0;
 let availableQuesions = [];
 
+//Quiz Questions
 let questions = [
     {
         question: "How many beans will you find inside the cherry of the Peaberry coffee plant?",
@@ -46,7 +51,7 @@ let questions = [
     {
         question: " Which roast of coffee beans is considered the best for espresso or latte?",
         choice1: "Light",
-        choice2: "Darka",
+        choice2: "Dark",
         choice3: "Medium dark",
         choice4: "Medium",
         answer: 3,
@@ -61,7 +66,7 @@ let questions = [
     },
     {
         question: " Which one of the statements below is NOT true about Robusta coffee?",
-        choice1: "It grows well at lower altitudes",
+        choice1: "It grows at lower altitudes",
         choice2: "It is a light coffee",
         choice3: "It has more caffeine than Arabica",
         choice4: "It is more prone to diseases",
@@ -190,18 +195,23 @@ let questions = [
 },
 ];
 
-//CONSTANTS
-const CORRECT_BONUS = 10;
+//Defining how many questions quiz will have and points per question
 const MAX_QUESTIONS = 5;
+const CORRECT_BONUS = 10;
 
-startGame = () => {
+
+//Quiz starts with 0 points 
+
+let startGame = () => {
     questionCounter = 0;
     score = 0;
     availableQuesions = [...questions];
     getNewQuestion();
   };
 
-  getNewQuestion = () => {
+  //Get new question until it reaches last question and then goes to the end page
+  
+ let getNewQuestion = () => {
     if (availableQuesions.length === 0 || questionCounter >= MAX_QUESTIONS) {
       localStorage.setItem("mostRecentScore", score);
       //go to the end page
@@ -210,6 +220,7 @@ startGame = () => {
     questionCounter++;
     questionCounterText.innerText=questionCounter + "/" + MAX_QUESTIONS ;
   
+  //Questions are picked in random order points only added when answer correct - No points deducted for incorrect answer
     const questionIndex = Math.floor(Math.random() * availableQuesions.length);
     currentQuestion = availableQuesions[questionIndex];
     question.innerText = currentQuestion.question;
@@ -236,10 +247,11 @@ startGame = () => {
   
         if(classToApply === "correct") {
           incrementScore(CORRECT_BONUS);
-        }
-  
+        } 
+         
       selectedChoice.parentElement.classList.add(classToApply);
 
+    // One second timer set to move to next question after answering current question
       setTimeout(() => {
         selectedChoice.parentElement.classList.remove(classToApply);
         getNewQuestion();
@@ -247,10 +259,10 @@ startGame = () => {
     });
   });
 
-  incrementScore = num => {
+
+  let incrementScore = num => {
     score += num;
     scoreText.innerText = score;
   } ;
-  
   
   startGame();
