@@ -110,7 +110,8 @@
         -   The correct answer will get highlighted in green and the user will get 10 points which is added to their score .
         -   The incorrect answer will get highlighted in red and the user will not get any points. However , no points are deducted for the incorrect answer.
         -   There is a 1 second delay after the user answers a question before moving to the next one.
-        -   There is an "exit" button at the bottom of the screen which allows the user to quit the quiz and return to home page at any time.
+        -   There is an "Exit Quiz" button at the bottom of the screen which allows the user to quit the quiz and return to home page at any time.
+        -   The "Exit Quiz" first opens into a modal to ensure the user definately wants to exit game. Incase they have unintentionaly pressed the exit quiz button they have the option to return to the quiz without losing their score.
 
 
 <p align="center">
@@ -118,6 +119,10 @@
         <img src="readme/images/qp-mob.png" alt="FullScreen Quiz Page Wire Frame"width="220" height="500">
        </p>
 
+<p align="center">
+       <img src="readme/images/qp_modal.png" alt="FullScreen Quiz Page Wire Frame" width="600" height="500">
+        <img src="readme/images/qp_modal-mob.png" alt="FullScreen Quiz Page Wire Frame"width="220" height="500">
+       </p>
 <br>
 
 -  ## Conclude Page
