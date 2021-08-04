@@ -43,9 +43,6 @@
     - #### Typography
         <p>The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.</p>
 
-    - #### Imagery
-        <p> Imagery is important.The homepage image is designed to be striking and catch the user's attention. However, the use of imagery is limited in the site so as to not distract the user from the key the objective of the site which is to play the quiz. </p>
-
 <br>
 
   #  Wireframes 
