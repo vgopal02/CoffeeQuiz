@@ -146,6 +146,10 @@
        </p>
 <br>
 
+-  ## Colors Used
+
+It has been ensured that background and font colors used are vision friendly. While people with different vision disabilities may not see the original color , they will be able to see and play the quiz clearly based on the [Toptal Color Blind Filter](https://www.toptal.com/designers/colorfilter?orig_uri=https://vgopal02.github.io/CoffeeQuiz/quiz.html&process_type=deutan).
+
 # Technologies Used
 
 ### Languages Used
@@ -185,6 +189,7 @@ The W3C Markup Validator and W3C CSS Validator Services has been used to validat
 <img src="readme/images/hs_html.png" alt="screenshot of code validation result" width="300" height="100"/>
 
 -   #### CSS - style.css
+            
 <a href="http://jigsaw.w3.org/css-validator/check/referer"><img style="border:0;width:88px;height:31px" src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!" /> </a>
 
 -   #### JavaScript
@@ -286,6 +291,8 @@ The project has been created on gitpod and deployed to GitHub Pages using the fo
 -   Questions for the quiz have been inspired by [Espresso and Coffee Guide](espressocoffeeguide.com) and [Coffee Quiz](www.coffeeteaclub.co.uk)  .
 
 -   Colors for the site have been chosen based combinations created in [colorcombos](https://www.colorcombos.com/combomaker.html?design=pencils&output_width=75&size_option=element&colors=5D7FA1,FFF9F9,F68405,020202&background_color=FFFFFF&show_hex_flag=Y).
+
+- Color combinations have been checked on [Toptal](https://www.toptal.com) Colorblind Web Page Filter.
 
 
 ### Media
