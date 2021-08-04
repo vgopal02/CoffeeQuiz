@@ -289,9 +289,6 @@ The project has been created on gitpod and deployed to GitHub Pages using the fo
 
 
 ### Media
-
--  The coffee mug image has been sourced from [Pexels](https://www.pexels.com/) -Photo by Chevanon Photography .
-
 -  Screen Shots have been sourced from [AmIresponsive](http://ami.responsivedesign.is/) and Chrome GoFull PageScreen Capture.
 
 ### Inspiring Quiz/Trivia:
