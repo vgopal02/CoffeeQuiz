@@ -217,7 +217,7 @@ JShint has been used to verify all js code.
 
     1. As a First Time Visitor, I want to easily understand the theme of the quiz , instructions on how to play and ability to play it.
 
-        1. Upon entering the site, users are automatically greeted with a clean image of coffee and a brief description of the quiz.
+        1. Upon entering the site, users are automatically greeted with a relevant header and brief description of the quiz.
       
         2. This is followed by three easily readable options - to play , instructions on how to play and to be able to view saved high scores. 
 
