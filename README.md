@@ -2,7 +2,7 @@
 
 [View the live project here.](https://vgopal02.github.io/CoffeeQuiz/)
 
-<p style="justify">This is a fun quiz designed to test the  knowledge of all coffee lovers and even those who are not. Based on a set of hardcoded questions the user is tested to 5 random questions each time they play.Each correct answer is worth 10 points. A score card at the top of the screen keeps score and also allows the user to see which question they are on. Upon completion of the quiz the user may save their score with the option to play again.  </p>
+<p style="justify">This is a fun quiz designed to test the  knowledge of all coffee lovers and even those who are not. Based on a set of hardcoded questions the user is tested to 5 random questions each time they play.Each correct answer is worth 10 points. No points are deducted for an incorrect answer.A display at the top of the screen allows the user to see which question they are on and a score card  shows the user their current score.The quiz also has an exit option which allows the user to leave the quiz before completion. At the end of the quiz the user may save their score with the option to play again.  </p>
 
 <h2 align="center"><img src="readme/images/home-page.png" alt="Website Screen Shot on different screen sizes" width="700" height="400"></h2>
 
