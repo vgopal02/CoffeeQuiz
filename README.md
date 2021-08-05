@@ -148,9 +148,9 @@
 
 -  ## Colors and Font Used
 
-        - It has been ensured that background and font colors used are vision friendly. While people with different vision disabilities may not see the original color , they will be able to see and play the quiz clearly based on the [Toptal Color Blind Filter](https://www.toptal.com/designers/colorfilter?orig_uri=https://vgopal02.github.io/CoffeeQuiz/quiz.html&process_type=deutan).
+    - It has been ensured that background and font colors used are vision friendly. While people with different vision disabilities may not see the original color , they will be able to see and play the quiz clearly based on the [Toptal Color Blind Filter](https://www.toptal.com/designers/colorfilter?orig_uri=https://vgopal02.github.io/CoffeeQuiz/quiz.html&process_type=deutan).
 
-        - Montserrat font with a Sans Serif backup has been used consistently through all pages of the quiz.Minimum font size used is 16px to ensure text is always clear and visible to user.
+    - Montserrat font with a Sans Serif backup has been used consistently through all pages of the quiz.Minimum font size used is 16px to ensure text is always clear and visible to user.
 
 # Technologies Used
 
