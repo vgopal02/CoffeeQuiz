@@ -78,8 +78,8 @@
 # Features
 
    -  ## Home Page
-        -   The user is welcomed into the site with striking image whilst ensuring focus of attention remains the quiz .
-        -   The user has three clear options - to be able to play the game , view instructions of the game or to view highscores generated so far.
+        -   The user is welcomed into the site with a clear header and description of the quiz.
+        -   The user has three options - to be able to play the game , view instructions of the game or to view highscores generated so far.
         -   The instructions option opens up a modal where the user is able to understand how to proceed further.
         -   The page is responsive on all device sizes
         -   Font Colors have been limited to white and black to ensure text is visible against its background and clear to the user.
