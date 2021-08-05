@@ -100,7 +100,7 @@
 <br>
 
    -  ## Quiz Page
-        -   In the quiz the user comes straigh into the first question.
+        -   In the quiz the user comes straight into the first question.
         -   The top left corner shows the question counter and right corner has score counter.
         -   The main body of the page has the question which gets picked in random from a database of questions which has been hardcoded.
         -   The user has the opportunity to play 5 questions.
