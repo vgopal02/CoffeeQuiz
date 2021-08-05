@@ -163,7 +163,7 @@
 ### Frameworks, Libraries & Programs Used
 
 - [Google Fonts:](https://fonts.google.com/)
-    - Google fonts has been used to import the 'Raleway' , 'Josefin' and 'Dancing Script' fonts into the style.css file which is used throughout the project.
+    - Google fonts has been used to import the 'Montserrat' font into the style.css file which is used throughout the project.
 - [Font Awesome:](https://fontawesome.com/)
     - Font Awesome has been used on all pages throughout the website to add icons for aesthetic and UX purposes.
 - [Git](https://git-scm.com/)
