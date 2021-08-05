@@ -294,7 +294,7 @@ The project has been created on gitpod and deployed to GitHub Pages using the fo
 
 -   Colors for the site have been chosen based combinations created in [colorcombos](https://www.colorcombos.com/combomaker.html?design=pencils&output_width=75&size_option=element&colors=5D7FA1,FFF9F9,F68405,020202&background_color=FFFFFF&show_hex_flag=Y).
 
-- Color combinations have been checked on [Toptal](https://www.toptal.com) Colorblind Web Page Filter.
+- Color combinations have been checked on [Toptal Color Blind Filter](https://www.toptal.com/designers/colorfilter?orig_uri=https://vgopal02.github.io/CoffeeQuiz/quiz.html&process_type=deutan) Colorblind Web Page Filter to ensure the backgroud colors and text is clearly visible to most users even if it not in original colors.
 
 
 ### Media
