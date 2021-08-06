@@ -223,11 +223,23 @@ JShint has been used to verify all js code.
 
     2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
 
-        1. The site has been designed to be fluid and never to entrap the user. Each link describes the page they will end up at clearly.
+        1. The site has been designed to be fluid and never to entrap the user. Each page has a link to go back to home page. 
 
-        2. All of the information is within the visibility of the user irrespective of the screen size.
+        2. Each link describes the page they will end up at clearly.
+        
+        3. All of the information is within easy visibility of the user .
 
-        3. Font colors and font sizes have been designed to ensure the information is clear to the user at all times.
+        4. Font colors and font sizes have been designed to ensure the information is clear to the user at all times.
+
+    3. As a First Time Visitor, I want to be able to play , record my score and view it easily.
+
+        1. The homepage clearly aloows the user to be able play the quiz.
+
+        2. At the end of the quiz the a user is shown their final score.
+
+        3. An input screen with a save button allows the user to save their score.
+
+        4. The user is then provided with the option to play the quiz again or return to the homepage where they can view their saved score.
 
 
  -  #### Returning Visitor Goals
