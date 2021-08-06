@@ -176,7 +176,7 @@
 
 # Testing
 
-The W3C Markup Validator and W3C CSS Validator Services has been used to validate every page of the project to ensure there is no syntax errors in the project.
+The [W3C Markup Validation Service](https://validator.w3.org/) and [Jigsaw W3C CSS Validator](jigsaw.w3.org) has been used to validate every page of the project to ensure there is no syntax errors in the project.
 
 -  #### Home Page - index.html
 <img src="readme/images/index_html.png" alt="screenshot of code validation result" width="300" height="100"/>
@@ -196,7 +196,7 @@ The W3C Markup Validator and W3C CSS Validator Services has been used to validat
 
 -   #### JavaScript
 
-JShint has been used to verify all js code. 
+[JShint](https://jshint.com/) has been used to verify all js code. 
 
 -   #### Modal Page - modal.js
 <img src="readme/images/js_Modal.png" alt="screenshot of code validation result" width="300" height="100"/>
@@ -277,13 +277,13 @@ JShint has been used to verify all js code.
 
 - ## Known Bugs
 
-On some smaller mobile devices longer answer choices in the quiz section overlap into the next option. As there are only two such questions with longer answer choices font sizes on smaller devices have not been reduced beyond 18px. One option to resolve the problem being considered is to extend the height of the answers option choice box in smaller screens. 
+On some smaller mobile devices longer answer choices in the quiz section overlap into the next option. As there are only two such questions with longer answer choices font sizes on smaller devices have not been reduced beyond 18px. One option to resolve the problem being considered is to extend the height of the answers option choice box in smaller screens. Increasing the height will mean on smaller mobile devices the user will not get complete visibility inside their screen and would need to scroll down. As this is relevant to only two questions at the moment it has been left as it is.
 <br>
 <br>
 
 - ## Deployment Testing 
 
-While the site was working at a local level, upon deployment to Github pages the site was unable to run the js code . Upon investigating the error was due to using incorrect file paths which when corrected had the site running properly.
+While the site was working at a local level, upon deployment to Github pages the site was unable to run the js code . Upon investigating the error was due to using incorrect file paths which when corrected had the site running sucessfully.
 <br>
 <br>
 
