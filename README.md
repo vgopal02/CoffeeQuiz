@@ -25,7 +25,7 @@
     - #### Frequent User Goals
 
         1. As a Frequent User, I want to be challenged to new questions in the quiz everytime.
-        2. This will require a large database of questions.
+        
 
 
 -   ### Design
@@ -255,7 +255,11 @@ JShint has been used to verify all js code.
 
        1. As a Frequent User, I want to be challenged to new questions in the quiz everytime.
         
-          1. A large database of questions have been coded for the user to be challenged everytime they play.
+          1. A large database of questions have been coded for the user to be challenged with different everytime they play.
+
+          2. The questions are also picked in random order so there will always be an element of surprise for the user.
+
+          
    
 ### Further Testing
 
