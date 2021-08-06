@@ -72,9 +72,8 @@
        <img src="readme/wireframes/wf-hs-1.png" alt="FullScreen Quiz Page Wire Frame" width="550" height="500">
         <img src="readme/wireframes/wf-hs-2.png" alt="Mobile Quiz Page Wire Frame" width="220" height="500">
         </p>
-
-    
-
+    <br>
+    <br>
 # Features
 
    -  ## Home Page
@@ -130,7 +129,6 @@
     -   If the user does not wish to save the score they have two other options - Go back to home page or to play the game again.
     
 
-
 <p align="center">
        <img src="readme/images/cp.png" alt="FullScreen conclusion Page Wire Frame" width="600" height="500">
         <img src="readme/images/cp-mob.png" alt="FullScreen conclusion Page Wire Frame"width="220" height="500">
@@ -150,7 +148,7 @@
 
     - It has been ensured that background and font colors used are vision friendly. While people with different vision disabilities may not see the original color , they will be able to see and play the quiz clearly based on the [Toptal Color Blind Filter](https://www.toptal.com/designers/colorfilter?orig_uri=https://vgopal02.github.io/CoffeeQuiz/quiz.html&process_type=deutan).
 
-    - Montserrat font with a Sans Serif backup has been used consistently through all pages of the quiz.Minimum font size used is 16px to ensure text is always clear and visible to user.
+    - Montserrat font with a Sans Serif backup has been used consistently through all pages of the quiz.Minimum font size used is 18px to ensure text is always clear and visible to user.
 
 # Technologies Used
 
