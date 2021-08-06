@@ -80,9 +80,9 @@
    -  ## Home Page
         -   The user is welcomed into the site with a clear header and description of the quiz.
         -   The user has three options - to be able to play the game , view instructions of the game or to view highscores generated so far.
-        -   The instructions option opens up a modal where the user is able to understand how to proceed further.
-        -   The page is responsive on all device sizes
+        -   The instruction option opens up a modal where the user is able to understand how to proceed further.
         -   Font Colors have been limited to white and black to ensure text is visible against its background and clear to the user.
+        - The page is responsive on all device sizes.
         
 
 <p align="center">
@@ -102,8 +102,8 @@
    -  ## Quiz Page
         -   In the quiz the user comes straight into the first question.
         -   The top left corner shows the question counter and right corner has score counter.
-        -   The main body of the page has the question which gets picked in random from a database of questions which has been hardcoded.
-        -   The user has the opportunity to play 5 questions.
+        -   The main body of the page has the question which gets picked at random from a database of questions which has been hardcoded.
+        -   The user has the opportunity to play 5 questions at a time.
         -   The correct answer will get highlighted in green and the user will get 10 points which is added to their score .
         -   The incorrect answer will get highlighted in red and the user will not get any points. However , no points are deducted for the incorrect answer.
         -   There is a 1 second delay after the user answers a question before moving to the next one.
@@ -126,7 +126,7 @@
     -   In the conclusion page the user's final score is shown.
     -   The user may save the score by adding their name into the username input box and pressing save.
     -   The score is automatically saved to the highscores page and the user is taken back to the home page.
-    -   It is important to note that the "Save" button is disable by default and only gets activated when the user inputs some text into the input box.
+    -   It is important to note that the "Save" button is disabled by default and only gets activated when the user inputs some text into the input box.
     -   If the user does not wish to save the score they have two other options - Go back to home page or to play the game again.
     
 
@@ -223,18 +223,18 @@ JShint has been used to verify all js code.
 
     2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
 
-        1. The site has been designed to be fluid and never to entrap the user. Each link clearly describes the page they will end up at clearly.
+        1. The site has been designed to be fluid and never to entrap the user. Each link describes the page they will end up at clearly.
 
         2. All of the information is within the visibility of the user irrespective of the screen size.
 
-        3. Font colors and sizes have been designed to ensure the information is clear to the user at all times.
+        3. Font colors and font sizes have been designed to ensure the information is clear to the user at all times.
 
 
  -  #### Returning Visitor Goals
 
     1. As a Returning Visitor, I want to find the quiz fresh.
 
-        1. The questions are picked in random order from a database of hardcoded questions.
+        1. The questions are picked at random order from a database of hardcoded questions.
 
         2. This makes it a challenge for the user as they will be always be asked different questions.
 
@@ -249,11 +249,11 @@ JShint has been used to verify all js code.
 
 -   The Website has been tested on Google Chrome, Firefox and Safari browsers.
 
--   The website has been viewed on different devices such as Desktop, Laptop, iPhone5, iPhone 6/7/8 & iPhoneX and site has been designed to be responsive on devices with minimum 240px width upto desktop.
+-   The site has been designed to be responsive on different devices - mobile to desktop.The website has been viewed on different devices such as Desktop, Laptop, different iPhones and Android devices. 
 
 -   The website has also been viewed on a variety of different devices through Chrome Developer Tools.
 
--  Testing has been done to ensure that all pages are linking correctly.
+-  Testing has been done to ensure that all pages are linked correctly.
 
 -  Friends and family members  across global locations  have been asked to review the site and document any bugs and/or user experience issues.
 
