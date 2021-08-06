@@ -244,7 +244,7 @@ JShint has been used to verify all js code.
 
  -  #### Returning Visitor Goals
 
-    1. As a Returning Visitor, I want to find the quiz fresh.
+    1.  As a Returning Visitor, I want to be able to play the quiz with different questions..
 
         1. The questions are picked at random order from a database of hardcoded questions.
 
