@@ -32,8 +32,7 @@
 
     - #### Color Scheme
 
-    The main colors used 
-        Colors chosen ensure background colors and font colors are cohesive to remain clear and legible for the user. The main colors used are :
+    The main colors used are :
        <p> 1. #fddcc356 </p>
        <p> 2. #6b7a8f </p> 
        <p> 3. #f7882f </p> 
