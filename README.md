@@ -32,17 +32,18 @@
 
     - #### Color Scheme
 
-    The main colors used are :
-       <p> 1. #fddcc356 </p>
-       <p> 2. #6b7a8f </p> 
-       <p> 3. #f7882f </p> 
-       <p> 4.White & Black for Typography. </p> 
-       <p> 5.Red and Green to highlight correct and incorrect answers in quiz. </p> 
- 
-    - #### Typography
-        <p>The Montserrat font is the main font used throughout the site. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.Sans Serif is used as the fallback font. </p>
+        The main colors used are :
+        1. #fddcc356 
+        2. #6b7a8f 
+        3. #f7882f 
+        4. White & Black for Typography.
+        5. Red and Green to highlight correct and incorrect answers in quiz.  
+        <br>
 
-<br>
+    - #### Typography
+
+        <p>The Montserrat font is the main font used throughout the site. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.Sans Serif is used as the fallback font. </p>
+        <br>
 
   #  Wireframes 
   
