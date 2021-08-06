@@ -275,13 +275,13 @@ JShint has been used to verify all js code.
 <br>
 <br>
 
-### Known Bugs
+- ## Known Bugs
 
 On some smaller mobile devices longer answer choices in the quiz section overlap into the next option. As there are only two such questions with longer answer choices font sizes on smaller devices have not been reduced beyond 18px. One option to resolve the problem being considered is to extend the height of the answers option choice box in smaller screens. 
 <br>
 <br>
 
-### Deployment Testing 
+- ## Deployment Testing 
 
 While the site was working at a local level, upon deployment to Github pages the site was unable to run the js code . Upon investigating the error was due to using incorrect file paths which when corrected had the site running properly.
 <br>
