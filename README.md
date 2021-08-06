@@ -308,7 +308,7 @@ The project has been created on gitpod and deployed to GitHub Pages using the fo
 
 -   [Build a Quiz](https://www.jamesqquick.com/courses/build-a-quiz-app-with-html-css-and-javascript) : For the quiz and saving user highscores. Code has been modified to better fit my needs . Tutorial Found [Here](https://www.jamesqquick.com/courses/build-a-quiz-app-with-html-css-and-javascript)
 
-- [How To Create a Modal Box](https://www.w3schools.com/howto/howto_css_modals.asp):For the modal box .Code has been modified to better fit my needs.
+- [How To Create a Modal Box](https://www.w3schools.com/howto/howto_css_modals.asp):For the modal box .The Code has been modified to better fit my needs.
 
 ### Content
 
