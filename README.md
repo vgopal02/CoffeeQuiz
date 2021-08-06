@@ -157,7 +157,8 @@
     -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
     -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
     -   [Javascript](https://en.wikipedia.org/wiki/JavaScript)
-
+    <br>
+    <br>
 -  ## Frameworks, Libraries & Programs Used
 
     - [Google Fonts:](https://fonts.google.com/)
@@ -172,6 +173,7 @@
     - [Balsamiq:](https://balsamiq.com/) Balsamiq has been used to create the wireframes during the design process.
 <br>
 <br>
+
 # Testing
 
 The W3C Markup Validator and W3C CSS Validator Services has been used to validate every page of the project to ensure there is no syntax errors in the project.
@@ -209,7 +211,7 @@ JShint has been used to verify all js code.
 <img src="readme/images/js_highscores.png" alt="screenshot of code validation result" width="300" height="100"/>
 
             
-### Testing User Stories from User Experience (UX) Section
+- ## Testing User Stories from User Experience (UX) Section
 
 -   #### First Time Visitor Goals
 
@@ -259,29 +261,32 @@ JShint has been used to verify all js code.
 
           
    
-### Further Testing
+- ## Further Testing
 
--   The Website has been tested on Google Chrome, Firefox and Safari browsers.
+    -  The Website has been tested on Google Chrome, Firefox and Safari browsers.
 
--   The site has been designed to be responsive on different devices - mobile to desktop.The website has been viewed on different devices such as Desktop, Laptop, different iPhones and Android devices. 
+    -   The site has been designed to be responsive on different devices - mobile to desktop.The website has been viewed on different devices such as Desktop, Laptop, different iPhones and Android devices. 
 
--   The website has also been viewed on a variety of different devices through Chrome Developer Tools.
+    -   The website has also been viewed on a variety of different devices through Chrome Developer Tools.
 
--  Testing has been done to ensure that all pages are linked correctly.
+    -  Testing has been done to ensure that all pages are linked correctly.
 
--  Friends and family members  across global locations  have been asked to review the site and document any bugs and/or user experience issues.
+    -  Friends and family members  across global locations  have been asked to review the site and document any bugs and/or user experience issues.
 <br>
 <br>
+
 ### Known Bugs
 
-On some smaller mobile devices longer answer choices in the quiz section overlap into the next option. As there are only two such questions with longer answer choices font sizes on smaller devices have not been reduced beyond 16px. One option to resolve the problem being considered is to extend the height of the answers option choice box in smaller screens. 
+On some smaller mobile devices longer answer choices in the quiz section overlap into the next option. As there are only two such questions with longer answer choices font sizes on smaller devices have not been reduced beyond 18px. One option to resolve the problem being considered is to extend the height of the answers option choice box in smaller screens. 
 <br>
 <br>
+
 ### Deployment Testing 
 
 While the site was working at a local level, upon deployment to Github pages the site was unable to run the js code . Upon investigating the error was due to using incorrect file paths which when corrected had the site running properly.
 <br>
 <br>
+
 # Deployment
 
 ### GitHub Pages
@@ -301,6 +306,7 @@ The project has been created on gitpod and deployed to GitHub Pages using the fo
 6. Scroll back down through the page to locate the now published site [link](https://vgopal02.github.io/CoffeeQuiz) in the "GitHub Pages" section.
 <br>
 <br>
+
 # Credits
 
 ### Code
