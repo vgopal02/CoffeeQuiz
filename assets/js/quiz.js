@@ -284,7 +284,7 @@ let startGame = () => {
     questionCounter++;
     questionCounterText.innerText=questionCounter + "/" + MAX_QUESTIONS ;
   
-  //Questions are picked in random order points only added when answer correct - No points deducted for incorrect answer
+  //Questions are picked in random order 
     const questionIndex = Math.floor(Math.random() * availableQuesions.length);
     currentQuestion = availableQuesions[questionIndex];
     question.innerText = currentQuestion.question;
@@ -309,6 +309,7 @@ let startGame = () => {
       const classToApply =
         selectedAnswer == currentQuestion.answer ? "correct" : "incorrect";
   
+   // Points only added when answer correct . No points deducted for incorrect answer
         if(classToApply === "correct") {
           incrementScore(CORRECT_BONUS);
         } 
@@ -323,7 +324,7 @@ let startGame = () => {
     });
   });
 
-
+  
   let incrementScore = num => {
     score += num;
     scoreText.innerText = score;

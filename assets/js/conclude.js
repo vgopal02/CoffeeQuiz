@@ -1,3 +1,5 @@
+//jshint esversion :6
+
 //Register user final score with option to save
 const username = document.getElementById('username');
 const saveScoreBtn = document.getElementById('saveScoreBtn');
