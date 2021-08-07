@@ -20,7 +20,6 @@ function openModal() {
 //Function to close modal
 function closeModal() {
     modal.style.display = "none";
-
 }
 
 //Function to close modal if clicked in window outside modal box
