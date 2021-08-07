@@ -257,6 +257,22 @@ let questions = [
    choice4: "Half",
    answer: 1,
 },
+{
+  question: " Where is the Starbucks headquarters?",
+   choice1: "Seattle",
+   choice2: "Miami",
+   choice3: "London",
+   choice4: "New York",
+   answer: 1,
+},
+{
+  question: " On which continent were coffee plants first found?",
+   choice1: "Asia",
+   choice2: "Africa",
+   choice3: "Europe",
+   choice4: "Australia",
+   answer: 2,
+},
 ];
 
 //Defining how many questions quiz will have and points per question
