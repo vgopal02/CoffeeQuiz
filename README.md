@@ -13,7 +13,7 @@
     -   #### First Time Visitor Goals
 
         1. As a First Time Visitor, I want to easily understand the theme of the quiz , instructions on how to play and ability to play it.
-        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content and correct option to proceed.
+        2. As a First Time Visitor, I should be able to easily navigate throughout the site to find content and correct option to proceed.
         3. As a First Time Visitor, I want to be able to play , record my score and view it easily.
     
 
@@ -221,7 +221,7 @@ The [W3C Markup Validation Service](https://validator.w3.org/) and [Jigsaw W3C C
       
         2. This is followed by three easily readable options - to play , instructions on how to play and to be able to view saved high scores. 
 
-    2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+    2. As a First Time Visitor, I should be able to easily navigate throughout the site to find content.
 
         1. The site has been designed to be fluid and never to entrap the user. Each page has a link to go back to home page. 
 
